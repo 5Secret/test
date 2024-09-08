@@ -6,5 +6,6 @@ int main()
     cin>>a>>d;
     cout<<a<<" nb"<<endl;
     int x;
+    int w;
     return 0;
 }
