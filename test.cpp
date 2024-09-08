@@ -2,10 +2,11 @@
 using namespace std;
 int main()
 {
-    int a,b,c;
-    cin>>a;
+    int a,b,c,d;
+    cin>>a>>d;
     cout<<a<<" nb"<<endl;
     int x;
+    int w;
     int zzz;
     return 0;
 }
