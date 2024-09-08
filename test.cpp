@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<"nb"<<endl;
+    int a;
+    cin>>a;
+    cout<<a<<" nb"<<endl;
     return 0;
 }
